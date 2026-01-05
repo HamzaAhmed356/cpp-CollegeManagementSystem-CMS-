@@ -17,7 +17,7 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 
 ---
 
-## 🧠 Key Concepts Used
+## Key Concepts Used
 - Object-Oriented Programming (OOP)
   - Inheritance
   - Encapsulation
@@ -96,7 +96,6 @@ Admin Password : password
 - Replace text files with a **database**
 - Encrypt admin passwords
 - Improve UI using **graphics**
-- Remove `goto` statements
 - Add input validation
 - Cross-platform compatibility
 ---
