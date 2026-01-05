@@ -42,7 +42,7 @@ class College{			// Main Parent CLass
 				c1.title();
 				cout<<"Project Name : College Mangement System ."<<endl;
 				Sleep(300);
-				cout<<"Developed by Hamza Ahmed :"<<endl;
+				cout<<"Developed by :"<<endl;
 				Sleep(200);
 				cout<<"Hamza Ahmed "<<endl;
 				cout<<"\n\n Purpose of this Project :"<<endl;
