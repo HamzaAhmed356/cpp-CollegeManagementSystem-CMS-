@@ -1,6 +1,6 @@
-# College Management System (C++)
+# College Management System using C++ (OOP)
 
-## 📌 Project Overview
+## Project Overview
 The **College Management System** is a console-based application developed in **C++**.  
 It is designed to manage basic college operations such as **student admissions**, **teacher job applications**, **admin login**, and **record viewing** using **file handling**.
 
@@ -8,7 +8,7 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Store and manage **student records**
 - Store and manage **teacher job applications**
 - Provide **secure admin login**
@@ -32,9 +32,9 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 
 ---
 
-## 🏗️ System Modules
+## System Modules
 
-### 1️⃣ Admin Module
+### Admin Module
 - Secure login using **name and password**
 - View:
   - Student records
@@ -42,31 +42,31 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
   - Student admission applications
   - Teacher job applications
 
-### 2️⃣ Student Module
+### Student Module
 - Student Admission Form
 - Student Portal (login using **ID & CNIC**)
 - Data stored in text files
 
-### 3️⃣ Teacher Module
+### Teacher Module
 - Teacher Job Application
 - Teacher Portal (login using **ID & CNIC**)
 - Data stored in text files
 
-### 4️⃣ Information Section
+### Information Section
 - Displays project name
 - Project members
 - Project purpose
 
 ---
 
-## 🔐 Default Admin Credentials
+## Default Admin Credentials
 Admin Name : Hamza Ahmed
 Admin Password : password
 
 
 ---
 
-## 📂 Files Used
+## Files Used
 | File Name | Purpose |
 |----------|--------|
 | `AdmissionStudentFile.txt` | Stores student admission data |
@@ -76,7 +76,7 @@ Admin Password : password
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Open **Visual Studio** or any C++ compiler
 2. Create a **Console Application**
 3. Copy and paste the source code
@@ -85,14 +85,14 @@ Admin Password : password
 
 ---
 
-## ⚠️ Requirements
+## Requirements
 - Windows Operating System
 - C++ Compiler (Visual Studio recommended)
 - Basic knowledge of C++
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Replace text files with a **database**
 - Encrypt admin passwords
 - Improve UI using **graphics**
@@ -101,16 +101,16 @@ Admin Password : password
 - Cross-platform compatibility
 ---
 
-## 📜 License
-This project is developed by **Hamza Ahmed**.
+## License
+This project is developed by **HamzaAhmed356**.
 
 ---
 
-## ⭐ Final Note
+## Final Note
 This project is ideal for:
 - OOP practice
 - File handling practice
-- Semester / Final year C++ projects
+- Semester C++ projects
 
 Feel free to improve and expand it 🚀
 
